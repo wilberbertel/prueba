@@ -1,0 +1,71 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 28/02/2019, 08:58:16 AM
+    Author     : 1102883246
+*/
+body {
+    background-image: url(http://hipatiamairena.org/wp-content/uploads/2018/11/Fondos-para-paginas-web-grandes.jpg);
+
+}
+
+.principal{
+    background-color: rgb(107, 100, 77);
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+img#img1_index{
+
+    display:block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1,h2 {
+
+    text-align: center;
+}
+
+#menu{
+    background-color: #00cccc;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 8px solid skyblue;
+}
+
+.itemMenu{
+    text-decoration: none;
+    border-left: 1px solid blue;
+    border-right: 1px solid blue;
+    margin-right: 5px;
+    padding: 5px;
+}
+
+.itemMenu:hover{
+    background-color: graytext;
+}
+
+#footer{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    border-top: 1px gray solid;
+    padding: 10px;
+}
+
+.textoFooter{
+    text-align: center;
+    font-style: italic;
+
+}
+table.c {
+  width: 100%;
+}
